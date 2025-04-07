@@ -31,6 +31,7 @@ DEBUG = os.environ.get("DEBUG", False)
 ALLOWED_HOSTS = [
     '127.0.0.1',  # vs code preview
     'localhost',  # listen for strip webhook
+    'boutique-ado-5p-836416f20ec2.herokuapp.com/'
 ]
 
 
